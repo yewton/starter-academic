@@ -16,6 +16,26 @@
    description = "日本語の説明だよ"
 
 [[ja.menu.main]]
-   name = "メイン"
-   url = "#about"
-   weight = 1
+  name = "ホーム"
+  url = "#about"
+  weight = 10
+
+[[ja.menu.main]]
+  name = "投稿"
+  url = "#posts"
+  weight = 20
+
+[[ja.menu.main]]
+  name = "プロジェクト"
+  url = "#projects"
+  weight = 30
+
+[[ja.menu.main]]
+  name = "フィーチャード"
+  url = "#featured"
+  weight = 40
+
+[[ja.menu.main]]
+  name = "コンタクト"
+  url = "#contact"
+  weight = 60
